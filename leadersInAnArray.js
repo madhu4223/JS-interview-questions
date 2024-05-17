@@ -23,7 +23,7 @@ const leaders = (arr, n) => {
 
 //optimized
 // can use a single loop and traverse the array from right to left. T
-// his way, you can keep track of the maximum element encountered so far and identify leaders efficiently.
+// this way, you can keep track of the maximum element encountered so far and identify leaders efficiently.
 
 
 const leaders2 = (arr, n) => {
