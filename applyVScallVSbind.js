@@ -25,7 +25,7 @@ let person = {
 
   console.log(person.fullName.call(person1, 'Hyd', 'India'));//Madhukar Gurram,Hyd India
 
-//    Slice vs Spice of array
+//    Slice vs Splice of array
 
 // The main difference between slice() and splice() methods in JavaScript is that slice() creates a new array by copying elements from an existing array,
 //  whereas splice() modifies the original array.

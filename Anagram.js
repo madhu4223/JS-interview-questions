@@ -22,3 +22,8 @@ const anagram = (str1, str2) =>{
 console.log("is Anagram : ",anagram("awesome", "awesoem")) // true
 console.log("is Anagram : ",anagram("aza", "aaz")) // true
 console.log("is Anagram : ",anagram("aza", "azz")) // false
+
+
+
+// for ... of loop only works with arrays and loop item is the value/item of array
+// for ...in loop works with both array and objects. - in array the loop item is the index, -in object the loop item is the key.

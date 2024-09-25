@@ -1,0 +1,1 @@
+fetch('https://dummyjson.com/products/1').then((res)=>res.json()).then(result => console.log(result))
