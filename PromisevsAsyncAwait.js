@@ -5,7 +5,7 @@
 //  - It does not have any states. It returns a promise either resolved or rejected.
 
 // - Error handling is done using .then() and .catch() methods.
-//  - Error handling is done using .try() and .catch() methods.
+//  - Error handling is done using try() and catch() methods.
 
 //  -  Promise chains can become difficult to understand sometimes.
 //  - Using Async/Await makes it easier to read and understand the flow of the program as compared to promise chains.   

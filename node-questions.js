@@ -11,7 +11,7 @@ server.close()
 
 
 // 2. what is a middle ware or middle ware function?
-    // middle ware is a function which has access to both request and response objects and next function.
+    // middle ware is a function which has access to request and response objects and next function.
     // we can do things like validation before navigating to the actual service, and return an error if invalid.
 
 // 3. what is profiler in MongoDB
@@ -25,4 +25,7 @@ server.close()
 // 5. what is scaffolding in nodejs
 // scaffolding refers to creating the basic structure of your application, like a building's skeleton. This saves you time setting up common elements from scratch.
 // ex; using Express framework ==> app.js, package file, routes,services folder
+
+//REPL
+// The REPL (Read-Eval-Print Loop) in Node.js is an interactive programming environment that allows you to execute JavaScript code snippets and see the results immediately.
 

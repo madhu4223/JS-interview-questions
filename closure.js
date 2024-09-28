@@ -17,3 +17,5 @@ const secretMessage = () =>{
 const mySecret = secretMessage()
 
 mySecret()
+
+// console.log(">>> ", mySecret())

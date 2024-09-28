@@ -1,5 +1,6 @@
 // In JavaScript, prototypes are a mechanism used for inheritance. Every object has a prototype, which provides access to properties and methods that are not defined on the object itself. This allows objects to inherit features from other objects, without having to duplicate the code.
-// The prototype of an object is an object that is used to look up properties that are not defined on the object itself. When you try to access a property on an object, JavaScript will first look for the property on the object itself. If the property is not found on the object, JavaScript will then look for the property on the object's prototype. This process continues up the prototype chain until the property is found or the prototype chain is exhausted.
+// The prototype of an object is an object that is used to look up properties that are not defined on the object itself. When you try to access a property on an object, JavaScript will first look for the property on the object itself. If the property is not found on the object, JavaScript will then look for the property on the object's prototype. 
+//This process continues up the prototype chain until the property is found or the prototype chain is exhausted.
 // The prototype of an object can be accessed using the Object.getPrototypeOf() method. This method returns the prototype of the specified object.
 // For example, the following code creates a new object called obj:
 

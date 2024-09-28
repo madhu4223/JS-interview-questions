@@ -9,3 +9,6 @@
 
 // Ex; creating a div programatically (document.createElement) and adding stying to it, so this div is from shadow DOM which is isolated from rest of the project.
 //  styles from rest of the project will not affect this. it's like attaching a hidden DOM tree to an element in the regular DOM tree
+
+// The Shadow DOM is a web standard that allows developers to encapsulate a part of the DOM and its CSS, creating a separate, isolated scope. 
+//This helps to prevent styles and scripts from leaking in or out, ensuring that the component's internal structure is protected from external interference.
